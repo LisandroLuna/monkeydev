@@ -9,8 +9,18 @@
         padding: 1rem 1rem 1rem 1rem;
     }
     main{
-        margin: 2rem;
-        display: flex;
+        margin: 2rem 2rem 2rem 2rem;
+    }
+    .grid-head {
+        display: grid;
+        grid-template-columns: auto auto;
+        grid-column-gap: 2rem;
+    }
+    .grid-h-item {
+    }
+    .grid-h-item img {
+        padding: 1rem 1rem 1rem 1rem;
+        width: 85%;
     }
     .grid-container {
         display: grid;
@@ -78,6 +88,9 @@
     .form-cont input{
         padding: 0.5rem 0.5rem 0.5rem 0.5rem;
         margin: 1rem 0rem 0rem 0rem;
+    }
+    .text-center{
+        text-align: center;
     }
 }
 @media (min-width: 576px) and (max-width: 767px) {
@@ -91,8 +104,18 @@
         padding: 1rem 1rem 1rem 1rem;
     }
     main{
-        margin: 2rem;
-        display: flex;
+        margin: 2rem 2rem 2rem 2rem;
+    }
+    .grid-head {
+        display: grid;
+        grid-template-columns: auto auto;
+        grid-column-gap: 2rem;
+    }
+    .grid-h-item {
+    }
+    .grid-h-item img {
+        padding: 1rem 1rem 1rem 1rem;
+        width: 85%;
     }
     .grid-container {
         display: grid;
@@ -161,6 +184,9 @@
         padding: 0.5rem 0.5rem 0.5rem 0.5rem;
         margin: 1rem 0rem 0rem 0rem;
     }
+    .text-center{
+        text-align: center;
+    }
 }
 @media (min-width: 768px) and (max-width: 991px) {
     body{
@@ -173,8 +199,18 @@
         padding: 1rem 1rem 1rem 1rem;
     }
     main{
-        margin: 2rem;
-        display: flex;
+        margin: 2rem 2rem 2rem 2rem;
+    }
+    .grid-head {
+        display: grid;
+        grid-template-columns: auto auto;
+        grid-column-gap: 2rem;
+    }
+    .grid-h-item {
+    }
+    .grid-h-item img {
+        padding: 1rem 1rem 1rem 1rem;
+        width: 85%;
     }
     .grid-container {
         display: grid;
@@ -242,6 +278,9 @@
     .form-cont input{
         padding: 0.5rem 0.5rem 0.5rem 0.5rem;
         margin: 1rem 0rem 0rem 0rem;
+    }
+    .text-center{
+        text-align: center;
     }
 }
 @media (min-width: 992px)  and (max-width: 1199px){
@@ -255,7 +294,18 @@
         padding: 1rem 1rem 1rem 1rem;
     }
     main{
-        display: flex;
+        margin: 2rem 2rem 2rem 2rem;
+    }
+    .grid-head {
+        display: grid;
+        grid-template-columns: auto auto;
+        grid-column-gap: 2rem;
+    }
+    .grid-h-item {
+    }
+    .grid-h-item img {
+        padding: 1rem 1rem 1rem 1rem;
+        width: 85%;
     }
     .grid-container {
         display: grid;
@@ -324,6 +374,9 @@
         padding: 0.5rem 0.5rem 0.5rem 0.5rem;
         margin: 1rem 0rem 0rem 0rem;
     }
+    .text-center{
+        text-align: center;
+    }
 }
 @media (min-width: 1200px) {
     body{
@@ -336,8 +389,18 @@
         padding: 1rem 1rem 1rem 1rem;
     }
     main{
-        margin: 2rem;
-        display: flex;
+        margin: 2rem 2rem 2rem 2rem;
+    }
+    .grid-head {
+        display: grid;
+        grid-template-columns: auto auto;
+        grid-column-gap: 2rem;
+    }
+    .grid-h-item {
+    }
+    .grid-h-item img {
+        padding: 1rem 1rem 1rem 1rem;
+        width: 85%;
     }
     .grid-container {
         display: grid;
@@ -405,5 +468,8 @@
     .form-cont input{
         padding: 0.5rem 0.5rem 0.5rem 0.5rem;
         margin: 1rem 0rem 0rem 0rem;
+    }
+    .text-center{
+        text-align: center;
     }
 }
