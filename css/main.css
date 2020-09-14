@@ -13,7 +13,7 @@
     }
     .grid-head {
         display: grid;
-        grid-template-columns: auto auto;
+        grid-template-columns: auto;
         grid-column-gap: 2rem;
     }
     .grid-h-item {
@@ -108,7 +108,7 @@
     }
     .grid-head {
         display: grid;
-        grid-template-columns: auto auto;
+        grid-template-columns: auto;
         grid-column-gap: 2rem;
     }
     .grid-h-item {
