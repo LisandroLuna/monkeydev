@@ -2,11 +2,11 @@
     body{
         background: #d2d2d2;
         font-family: 'Lato';
+        margin: 0rem;
     }
     header{
         background: #ffe604;
         padding: 1rem 1rem 1rem 1rem;
-        margin: -1rem -1rem -1rem -1rem;
     }
     main{
         margin: 2rem;
@@ -25,7 +25,6 @@
         text-align: center;
         background: #ffe604;
         padding: 0.5rem 0.5rem 0.5rem 0.5rem;
-        margin: -1rem -1rem -1rem -1rem;
     }
     nav{
         margin: 0rem 0rem 0rem 0rem;
@@ -85,11 +84,11 @@
     body{
         background: #d2d2d2;
         font-family: 'Lato';
+        margin: 0rem;
     }
     header{
         background: #ffe604;
         padding: 1rem 1rem 1rem 1rem;
-        margin: -1rem -1rem -1rem -1rem;
     }
     main{
         margin: 2rem;
@@ -108,7 +107,6 @@
         text-align: center;
         background: #ffe604;
         padding: 0.5rem 0.5rem 0.5rem 0.5rem;
-        margin: -1rem -1rem -1rem -1rem;
     }
     nav{
         margin: 0rem 0rem 0rem 0rem;
@@ -168,11 +166,11 @@
     body{
         background: #d2d2d2;
         font-family: 'Lato';
+        margin: 0rem;
     }
     header{
         background: #ffe604;
         padding: 1rem 1rem 1rem 1rem;
-        margin: -1rem -1rem -1rem -1rem;
     }
     main{
         margin: 2rem;
@@ -192,7 +190,6 @@
         text-align: center;
         background: #ffe604;
         padding: 0.5rem 0.5rem 0.5rem 0.5rem;
-        margin: -1rem -1rem -1rem -1rem;
     }
     nav{
         margin: 0rem 0rem 0rem 0rem;
@@ -251,14 +248,13 @@
     body{
         background: #d2d2d2;
         font-family: 'Lato';
+        margin: 0rem;
     }
     header{
         background: #ffe604;
         padding: 1rem 1rem 1rem 1rem;
-        margin: -1rem -1rem -1rem -1rem;
     }
     main{
-        margin: 2rem;
         display: flex;
     }
     .grid-container {
@@ -275,7 +271,6 @@
         text-align: center;
         background: #ffe604;
         padding: 0.5rem 0.5rem 0.5rem 0.5rem;
-        margin: -1rem -1rem -1rem -1rem;
     }
     nav{
         margin: 0rem 0rem 0rem 0rem;
@@ -334,11 +329,11 @@
     body{
         background: #d2d2d2;
         font-family: 'Lato';
+        margin: 0rem;
     }
     header{
         background: #ffe604;
         padding: 1rem 1rem 1rem 1rem;
-        margin: -1rem -1rem -1rem -1rem;
     }
     main{
         margin: 2rem;
@@ -358,7 +353,6 @@
         text-align: center;
         background: #ffe604;
         padding: 0.5rem 0.5rem 0.5rem 0.5rem;
-        margin: -1rem -1rem -1rem -1rem;
     }
     nav{
         margin: 0rem 0rem 0rem 0rem;
