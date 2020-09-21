@@ -44,6 +44,21 @@ main{
     padding: 1rem 1rem 1rem 1rem;
     width: 100%;
 }
+.grid-web {
+    display: grid;
+    padding: 1rem 1rem 1rem 1rem;
+    grid-template-columns: 50% 50%;
+    grid-column-gap: 2rem;
+}
+.grid-w-item {
+    animation-name: fadeIn;
+    animation-duration: 1s;
+    padding: 1rem;
+}
+.grid-w-item img {
+    padding: 1rem 1rem 1rem 1rem;
+    width: 100%;
+}
 .grid-container {
     display: grid;
     grid-template-columns: 33% 33% 33%;
